@@ -22,7 +22,6 @@
 
 ![Snake animation](<p align="center">
   <img
-    alt="Animação da cobrinha no gráfico de contribuições"
     src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"
   />
 </p>
