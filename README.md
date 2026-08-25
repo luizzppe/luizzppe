@@ -17,4 +17,9 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/luizzppe/luizzppe/output/github-snake.svg)
+<p align="center">
+  <img
+    alt="Animação da cobrinha no gráfico de contribuições"
+    src="https://raw.githubusercontent.com/luizzppe/luizzppe/output/github-contribution-grid-snake.gif"
+  />
+</p>
