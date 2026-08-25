@@ -20,4 +20,4 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/luizzppe/luizzppe/output/github-snake.svg)
+(https://raw.githubusercontent.com/luizzppe/luizzppe/output/github-snake.svg)
