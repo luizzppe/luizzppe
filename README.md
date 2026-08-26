@@ -1,5 +1,5 @@
 ### Olá!
-### Eu sou Luiz Eduardo Plantz, curso Tecnologia da informação e comunicação na FAETERJ Petrópolis, atualmente estou no 3º período. E aqui compartilho alguns dos meus projetos onde ponho em prática meus aprendizados.
+### Eu sou Luiz Eduardo Plantz, curso Tecnologia da Informação e Comunicação na FAETERJ, atualmente estou no 3º período. E aqui compartilho alguns dos meus projetos onde ponho em prática meus aprendizados.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/luiz-eduardo-plantz-perdig%C3%A3o-aa4974351/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/luizeduardopp/)
